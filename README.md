@@ -1,4 +1,4 @@
-# Urban Energy HW 2: California Wildfire Risk Exploration
+# Urban Energy HW 2: Sonoma County Wildfire Risk Exploration
 
 Partnered assignment for Urban Energy (USF, Fall 2026).
 
